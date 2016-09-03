@@ -1,6 +1,6 @@
-FROM killuavx/nodejs-alpine
+FROM killuavx/nodejs
 MAINTAINER Ranger.Huang <killua.vx@gmail.com>
-ENV REFRESH_AT 2016-09-01
+ENV REFRESH_AT 2016-09-03
 
 USER root
 
